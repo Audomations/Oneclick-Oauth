@@ -5,4 +5,4 @@ Login easy with Oneclick.
 It's very easy to use oneclick.
 
 All you have to do is click this button. Well... Go on! Click it!
-<a href="https://oneclick.unitedcodeslive.repl.co/demo"><img src="https://oneclick.unitedcodeslive.repl.co/source/Oneclick.button.png" alt="Oneclick" style="width:250px;height:50px;"></a>
+<a href="https://oneclick.unitedcodeslive.repl.co/demo"><img src="https://oneclick.unitedcodeslive.repl.co/source/Oneclick.button.png" alt="Oneclick" style="width:150px;height:65px;"></a>
